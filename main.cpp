@@ -1,5 +1,5 @@
 /**
-  *		@brief		Try Kadane's Algorithm if it works well.
+  *		@brief		For knowledge about this algorithm,
   *					See: http://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
   */
 
